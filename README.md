@@ -10,7 +10,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F59acdc3a-1700-4b57-a8c7-26dbd2d6289a%2FImage_Notion.png?table=block&id=9500adf1-1496-45dd-8a4e-1c67105474aa&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=770&userId=&cache=v2">
 </p>
 <br>
 <p align="center">
